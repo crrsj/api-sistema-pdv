@@ -34,3 +34,5 @@ Spring Data JPA
 H2 Database (para testes locais)
 
 Swagger/OpenAPI (documentação da API)
+
+![pdv1](https://github.com/user-attachments/assets/21d068ff-c902-4665-a8e1-e267f442a5b2)
